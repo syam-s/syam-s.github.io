@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Career Page">
-    <meta name="author" content="Anjith George">
+    <meta name="author" content="Syam S.">
 
     <title>Sai Srivatsa - Homepage</title>
 
@@ -45,7 +45,7 @@
 	<div class="container">
 		<center>
 			<div class="page-header1">
-				<h1 style = "color:#585858">Anjith George</h1>
+				<h1 style = "color:#585858">Syam S.</h1>
 			</div>
 		</center>
 
@@ -84,9 +84,9 @@
       <div class="panel-body">
         <div class="row">
             <div class="col-md-12">
-                <h4><b><a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur (2012 - Current) </a></b></h4>
-                <p> PhD (Pursuing) in Electrical Engineering
-                <br> Computer Vision  </p>
+                <h4><b><a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur (2013 - Current) </a></b></h4>
+                <p> PhD (Pursuing) in Aerospace Engineering.
+                <br> Propulsion  </p>
             </div>
         </div>
       </div>
@@ -94,9 +94,9 @@
 			<div class="panel-body">
 				<div class="row">
 		    		<div class="col-md-12">
-		        		<h4><b><a href="http://www.iitkgp.ac.in/"> Indian Institute of Technology, Kharagpur (2010 - 2012) </a></b></h4>
-		        		<p> M. Tech (Instrumentation)in Electrical Engineering
-		        		<br> CGPA : 9.17 /10  </p>
+		        		<h4><b><a href="http://svnit.ac.in/"> Sardar Vallabhbhai National Institute of Technology, Surat (2011 - 2013) </a></b></h4>
+		        		<p> M. Tech (Turbomachines)in Mechanical Engineering
+                                       </p>
 		    		</div>
 				</div>
 			</div>
@@ -106,8 +106,8 @@
     <div class="panel-body">
       <div class="row">
           <div class="col-md-12">
-              <h4><b><a href="http://www.iitkgp.ac.in/"> Calicut University, Kerala (2006 - 2010) </a></b></h4>
-              <p> B. Tech (Hons. ) in Electrical and Electronics Engineering </p>
+              <h4><b><a href="http://www.aerosocietyindia.in/iMIS/Portal/"> The Aeronautical Society, Newdelhi (2005 - 2011) </a></b></h4>
+              <p> Bachelors in Aeronautical Engineering </p>
 
           </div>
       </div>
@@ -122,9 +122,6 @@
 			<div class="panel-body">
 				<div class="row">
 		    		<div class="col-md-12">
-		        		<p><b><a href ="."> A Vision Based System for Monitoring the Loss of Attention in Automotive Drivers </a></b> <br>
-		        		A. Dasgupta , <b>A. George</b>, SL. Happy, A. Routray <br>
-		        		<i> Intelligent Transportation Systems, IEEE Transactions on </i> <p>
 				        <hr>
 				        <p><b><a href =".">An on-board vision based system for drowsiness detection in automotive drivers </a></b> <br>
 				        A. Dasgupta , <b>A. George</b>, SL. Happy, A. Routray <br>
