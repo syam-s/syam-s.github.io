@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Career Page">
-    <meta name="author" content="Anjith George">
+    <meta name="author" content="Syam S.">
 
-    <title>Anjith George - Homepage</title>
+    <title>Syam S. - Homepage</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -45,7 +45,7 @@
 	<div class="container">
 	<center>
 			<div class="page-header1">
-			<h1 style = "color:#585858">Anjith George</h1>
+			<h1 style = "color:#585858">Syam S.</h1>
 		</div>
 	</center>
 
@@ -62,16 +62,13 @@
 		<div class="row">
 			<div class="col-md-8">
 			<br><br>
-				<p align = "justify"> Currently Pursuing PhD in Department of Electrical Engineering in <a href = "http://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a> .
+				<p align = "justify"> Currently I am working as a researcher scholar in the Department of Aerospace Engineering at <a href = "http://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur. I am specializing in propulsion. My research focus on numerical and experimental analysis on combustion of multicomponent droplet.
 				<br><br>
-				Previously, received M Tech  in  Instrumentation from  <a href = "http://www.iitkgp.ac.in">Indian Institute of Technology, Kharagpur</a>  in 2012 and B Tech (Hons. ) from Calicut University , Kerala in 2010 in Electrical and Electronics Engg.
+				I received my masters (M. Tech) in turbomachines from  <a href = "http://svnit.ac.in/">Sardar Vallabhbhai National Institute of Technology, Surat </a>  in 2013 and bachelors from Aeronautical Society of India, Newdelhi in 2011 in Aeronautical Engineering.
 				<br><br>
-			 Areas of expertise include Computer vision, Image processing, Pattern recognition, Machine Learning, Eye tracking, Python, C and C++ programming, Micro controller programming, and Embedded System Design.
-	<br><br>
-  <div class="puba"> <i>Member, IEEE</i></div>
-
-
-    <div class="puba"> <i>Member, COGAIN</i></div>
+			        Areas of expertise include CFD, experimental studies, and Fortran.
+                                <br><br>
+  <div class="puba"> <i>Member, Aeronautical Society of India</i></div>
 
       	</p>
 
@@ -79,7 +76,7 @@
 
             <div class="col-md-4">
                 <div class="pubimg">
-                    <br><img src="Figures/anjith.jpeg">
+                    <br><img src="Figures/syam.jpeg">
                 </div>
 
 
@@ -93,13 +90,10 @@
       <div class="panel-body">
         <div class="row">
             <div class="col-md-12">
-                
-                <p>  Embedded Signal and Image Processing</p> <br>
-                <p>     Computer Vision and Applications</p> <br>
+	    
+                <p> CFD </p>
+                <p> Droplet Combustion </p>
 
-                <p>  Pattern Recognition and Machine Learning</p> <br>
-                <p>   Eye Gaze Tracking and Applications</p> <br>
-                <p>   Human Computer Interaction</p> <br>
 
               
 
